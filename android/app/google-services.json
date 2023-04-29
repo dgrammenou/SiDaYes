@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027626161325",
+    "project_id": "sidayes-e53a4",
+    "storage_bucket": "sidayes-e53a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027626161325:android:a8f8a9e681aa43df70a224",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sidayes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027626161325-qiv55vjjsgce6mlib69qa047u8krifhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdYLhwCRMUhrDH7RmT7Jo8alGtaGY_tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027626161325-qiv55vjjsgce6mlib69qa047u8krifhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
